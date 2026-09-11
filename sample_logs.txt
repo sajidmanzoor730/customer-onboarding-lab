@@ -1,0 +1,8 @@
+2026-09-11T10:01:00Z INFO Starting onboarding for customer_id=SMB-150
+2026-09-11T10:01:05Z INFO Connecting to AWS account 123456789012
+2026-09-11T10:01:08Z ERROR AccessDenied: User is not authorized to perform: sts:AssumeRole
+2026-09-11T10:01:12Z INFO IAM role assumed successfully
+2026-09-11T10:01:16Z WARN CloudTrail not enabled in us-east-1
+2026-09-11T10:01:20Z ERROR Environment Connection Failed - missing SecurityAudit policy
+2026-09-11T10:01:25Z INFO Health check passed - environment connected
+2026-09-11T10:01:26Z INFO Time-to-first-value: 24 minutes
